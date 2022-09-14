@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "a598f91a41bfffca",
+    "type": "split",
+    "children": [
+      {
+        "id": "e57eb70f3f538b3b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "La ciencia de la riqueza.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa00300954d96754",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a81726e3594f7e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3047ee28ddc4a092",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "47864b3868f81b10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba838d5e4f4cff93",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee583d0844dcf507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3779847740e6fc58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "La ciencia de la riqueza.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a35449a14b59f8b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "La ciencia de la riqueza.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e57eb70f3f538b3b",
+  "lastOpenFiles": [
+    "La ciencia de la riqueza.md",
+    "La furia de las imágenes.md",
+    "Critical assessment.md",
+    "Breath.md",
+    "Aquaponics.md",
+    "Anatomy of Hatha Yoga.md"
+  ]
+}

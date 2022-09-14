@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 10
 
-title: Recent Posts
+title: Recent essays
 subtitle:
 
 content:
@@ -34,5 +34,5 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
-  columns: '2'
+  columns: '3'
 ---

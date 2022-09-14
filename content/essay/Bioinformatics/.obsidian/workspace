@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "c87d8f9912832067",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac54ed8f75738725",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Article review/Bioinformatics and Drug Discovery.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "575d412fb3ea9c0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "87dba3b6f67bdb3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eafc6735dbba6ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "16bd5de0177cc444",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3456459a3bde56e5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6d4b7ba860ae63ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "099dc1333be1d525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db654dca971c979c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Article review/Bioinformatics and Drug Discovery.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2fbd57cf96f2463",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74443b5d8b0b5e58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b549ddd9a8a04ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ac54ed8f75738725",
+  "lastOpenFiles": [
+    "Article review/Untitled.md",
+    "Untitled.md",
+    "Babbi et al. - 2017 - eDGAR a database of Disease-Gene Associations wit.pdf",
+    "Mitrea et al. - 2013 - Methods and approaches in the topology-based analy.pdf"
+  ]
+}
