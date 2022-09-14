@@ -128,8 +128,6 @@ https://krotanote.netlify.app/hobby/foss-pc/deletenote/
 THIS HUGO THEME WILL TAKE THE PATH OF FILES AS ORIGIN BUT WILL INTERPRET THE SUGGESTED PATH OF
 
 
-[A relative link from one post to another post]({{< relref "../deletenote" >}})
-
 
 
 
