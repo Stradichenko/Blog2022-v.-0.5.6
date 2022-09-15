@@ -26,7 +26,7 @@ type: docs
 toc: true
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
@@ -128,7 +128,7 @@ https://krotanote.netlify.app/hobby/foss-pc/deletenote/
 THIS HUGO THEME WILL TAKE THE PATH OF FILES AS ORIGIN BUT WILL INTERPRET THE SUGGESTED PATH OF
 
 
-[Deletenote]({{< relref "../foss-pc/deletenote" >}})
+[Deletenote]({{< relref ".../foss-pc/deletenote" >}})
 
 
 Link from page

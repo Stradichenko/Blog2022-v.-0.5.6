@@ -26,7 +26,7 @@ type:
 toc: true
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
