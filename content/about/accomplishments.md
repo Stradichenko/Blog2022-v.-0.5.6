@@ -42,7 +42,7 @@ item:
     title: 'Una visión 360 de la Medicina Genómica'
     url:
 
-- certificate_url: https://genotipia.com/certificate/469a42dd/
+  - certificate_url: https://genotipia.com/certificate/469a42dd/
     date_end: ''
     date_start: '2020-07'
     description: ''
