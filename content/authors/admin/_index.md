@@ -6,34 +6,36 @@ title: Gary Javier Espitia Sudea
 superuser: true
 
 # Role/position/tagline
-role: M.D.
+role: MD, MBI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Fundacion Universitaria de Ciencias de la Salud (FUCS)
+- name: MD. - Fundacion Universitaria de Ciencias de la Salud (FUCS)
   url: https://www.fucsalud.edu.co/
+- name: MBI - Universitat Pompeu Fabra
+  url: https://www.upf.edu/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests genetics, bioinformatics, scientometrics and statistics.
 
 # Interests to show in About widget
 interests:
-- Epigenetics
+- Bioinformatics
 - Scientometric tools
-- Bioinformatic tools
+- Epigenetics
+
+
+
 
 # Education to show in About widget
 Education:
   courses:
-  - course: Doctor of Medicine - MD · (2017 - 2021)
+  - course: Medicine
     institution: Fundación Universitaria de Ciencias de la Salud
     year: 2017 - 2021
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in Bioinformatics for Health Sciences
+    institution: Universitat Pompeu Fabra
+    year: 2022 - 2024
 
 Other studies:
   Courses:
@@ -74,8 +76,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Stradichenko
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: orcid  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://orcid.org/0000-0002-6463-9132
 - icon: github
   icon_pack: fab
@@ -92,7 +94,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sittoche@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -100,4 +102,4 @@ highlight_name: true
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

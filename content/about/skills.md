@@ -16,18 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: knowledge of Tidyverse
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
+- description: just a fan of photography :D
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: character sculpting and rigging
+  icon: blender
+- description: understanding and manipulation of the GNU/Linux Environment
+  icon: linux
+- description: usage knowledge of CiteSpace, VOSviewer, Bibliometrix and CitNetExplorer 
+  icon: net
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
