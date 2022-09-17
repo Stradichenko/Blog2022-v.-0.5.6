@@ -89,7 +89,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2016-12'
+    date_start: '2016-12-01'
     description: 'an online non-credit course authorized by University of Toronto and offered through Coursera'
     organization: Universidad del Rosario
     organization_url: https://www.urosario.edu.co/
@@ -98,7 +98,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2016'
+    date_start: '2016-01-01'
     description: ''
     organization: Universidad de los Andes
     organization_url: https://uniandes.edu.co/
@@ -107,7 +107,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2016'
+    date_start: '2016-01-01'
     description: ''
     organization: Universidad de los Andes
     organization_url: https://uniandes.edu.co/
@@ -134,7 +134,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2016-11'
+    date_start: '2016-11-01'
     description: 
     organization: Pontificia Universidad Javeriana 
     organization_url: https://www.javeriana.edu.co/inicio
@@ -143,7 +143,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2015-09'
+    date_start: '2015-09-01'
     description: ''
     organization: Universidad EAN
     organization_url: https://universidadean.edu.co/
@@ -152,7 +152,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2013-03'
+    date_start: '2013-03-01'
     description: 'an online non-credit course authorized by University of Michigan and offered through Coursera'
     organization: Coursera
     organization_url: https://www.coursera.org/
@@ -161,7 +161,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2012-12'
+    date_start: '2012-12-01'
     description: 'an online non-credit course authorized by University of Toronto and offered through Coursera'
     organization: Coursera
     organization_url: https://www.coursera.org/
@@ -171,7 +171,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2012-12'
+    date_start: '2012-12-01'
     description: 'an online non-credit course authorized by University of Pennsylvania and offered through Coursera'
     organization: Coursera
     organization_url: https://www.coursera.org/
