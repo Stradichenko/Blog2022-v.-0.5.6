@@ -24,7 +24,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
   email: sittoche@gmail.com
@@ -34,7 +34,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: DM
       link: 'https://twitter.com/Stradichenko'
 
 design:
