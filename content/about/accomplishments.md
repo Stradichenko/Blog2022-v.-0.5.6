@@ -150,7 +150,7 @@ item:
     title: 'Curso libre en Gerencia Empresarial'
     url:
 
-- certificate_url:
+  - certificate_url:
     date_end: ''
     date_start: '2013-03'
     description: 'an online non-credit course authorized by University of Michigan and offered through Coursera'
