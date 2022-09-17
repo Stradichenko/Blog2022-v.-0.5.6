@@ -53,7 +53,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2020-7-01'
+    date_start: '2020-07-01'
     description: 'Curso Latinoamericano de Investigación Biomédica Aplicada'
     organization: Cpedec Ascemcol
     organization_url: https://www.ascemcol.org/home
