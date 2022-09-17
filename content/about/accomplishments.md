@@ -35,7 +35,7 @@ item:
 
   - certificate_url: https://genotipia.com/certificate/ef9c3739/ 
     date_end: ''
-    date_start: '2020-10'
+    date_start: '2020-10-01'
     description: ''
     organization: Genotipia
     organization_url: https://genotipia.com/
@@ -44,7 +44,7 @@ item:
 
   - certificate_url: https://genotipia.com/certificate/469a42dd/
     date_end: ''
-    date_start: '2020-07'
+    date_start: '2020-07-01'
     description: ''
     organization: Epigenética en Medicina
     organization_url: https://genotipia.com/
@@ -53,7 +53,7 @@ item:
 
   - certificate_url:
     date_end: ''
-    date_start: '2020-7'
+    date_start: '2020-7-01'
     description: 'Curso Latinoamericano de Investigación Biomédica Aplicada'
     organization: Cpedec Ascemcol
     organization_url: https://www.ascemcol.org/home
