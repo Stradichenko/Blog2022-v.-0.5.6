@@ -1,14 +1,14 @@
 ---
-title: 
+title: heyheyheyhey
 
 # Page summary for search engines.
-summary:
+summary: yoyoyoyoyo
 
 # Date page published
 date: "2020-12-13T00:00:00Z"
 
 # Book page type (do not modify).
-type: book
+type: docs
 # The `course` folder in the example above may be renamed. For example, we can rename it to `book` for writing a book, `docs` for software/project documentation, `notes` for creating a notebook, or `tutorials` for creating multi-page “how to” guides.
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
