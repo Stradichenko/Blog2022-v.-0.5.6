@@ -15,7 +15,8 @@ date: "2020-12-13T00:00:00Z"
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
 
-image:
+
+image: 
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
@@ -50,7 +51,7 @@ tags:
 categories:
 - Technology
 ---
-
+![screen reader text](kubernetes.jpg "caption")
 Hi
 
 
