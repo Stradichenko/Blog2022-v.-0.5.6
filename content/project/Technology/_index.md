@@ -11,7 +11,9 @@ date: "2020-12-13T00:00:00Z"
 type: docs
 # The `course` folder in the example above may be renamed. For example, we can rename it to `book` for writing a book, `docs` for software/project documentation, `notes` for creating a notebook, or `tutorials` for creating multi-page “how to” guides.
 
-
+image:
+  caption: Photo by Author on Craiyon
+  focal_point: Smart
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
