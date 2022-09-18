@@ -25,8 +25,6 @@ interests:
 - Epigenetics
 
 
-
-
 # Education to show in About widget
 Education:
   courses:
@@ -36,28 +34,6 @@ Education:
   - course: Master in Bioinformatics for Health Sciences
     institution: Universitat Pompeu Fabra
     year: 2022 - 2024
-
-Other studies:
-  Courses:
-  - Coursera, Johns Hopkins University | The R Programming Environment | En progreso
-  - Coursera, Johns Hopkins University | Genomic Data Science with Galaxy | En progreso
-  - Genotipia | Epigenética en Medicina | Octubre, 2020 
-  - Genotipia | Una visión 360 de la Medicina Genómica | julio, 2020 
-  - Cpedec Ascemcol | Curso Latinoamericano de Investigación Biomédica Aplicada | Julio 2020
-  - Coursera, Johns Hopkins University | The Data Scientist’s Toolbox | Junio 2020 
-  - Coursera, Northwestern University| What is Social? | Agosto 2018 
-  - Coursera, University of Geneva | Understanding Financial Markets | Agosto 2018 
-  - Universidad del Rosario | Diplomado Virtual de Certificación en Historia Clínica Electrónica e Interoperabilidad en Salud | Diciembre 2016
-  - Pontificia Universidad Javeriana | Diplomado Epidemiología Clínica y Salud Pública | Noviembre 2016
-  - Coursera, Duke University | Introduction to Probability and Data with R | Noviembre 2016
-  - Coursera, Universidad de los Andes | ¿Cómo financiar mi empresa? | Julio 2016 
-  - Universidad de los Andes | Investigación en Salud y Epidemiología | 2016
-  - Universidad de los Andes | Curso organización cerebral del lenguaje en el siglo XXI | 2016
-  - Universidad EAN | Curso libre en Gerencia Empresarial | Septiembre 2015
-  - Coursera, University of Michigan | Internet History, Technology, and Security | Marzo 2013
-  - Coursera, University of Pennsylvania | Gamification | Diciembre 2012
-  - Coursera, University of Toronto | Learn to Program The Fundamentals | Diciembre 2012 
-
 
 #Languages:
 #  - English Level: Advanced C2
@@ -99,7 +75,6 @@ email: "sittoche@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-
+MBI at Universitat Pompeu Fabra, His research interests include the use of network analysis for literature review, the use of Blender for protein modeling. Previously worked with the genetic department on a projec for drug repurpusing for new treatments for lepromatous leprosy. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

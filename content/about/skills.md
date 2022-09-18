@@ -23,9 +23,11 @@ feature:
 - description: usage knowledge of CiteSpace, VOSviewer, Bibliometrix and CitNetExplorer
   icon: net
   name: Scientometrics
+  icon_pack: custom
 - description: understanding and manipulation of the GNU/Linux Environment
   icon: linux
   name: GNU/Linux
+  icon_pack: custom
 - description: character sculpting and rigging
   icon: blender
   name: Blender
