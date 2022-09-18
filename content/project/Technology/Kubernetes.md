@@ -38,20 +38,17 @@ featured: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 3
+view: 2
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
-authors:
-- admin
 
 tags:
 - Kubernetes
 categories:
 - Technology
 ---
-![screen reader text](kubernetes.jpg "caption")
+
 Hi
 
 
