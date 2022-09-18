@@ -10,6 +10,8 @@ date: "2020-12-13T00:00:00Z"
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 
+type: docs
+
 # View.
 #   1 = List
 #   2 = Compact

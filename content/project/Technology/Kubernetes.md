@@ -15,6 +15,11 @@ date: "2020-12-13T00:00:00Z"
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
 
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+
 # Book page type (do not modify).
 type: docs
 # The `course` folder in the example above may be renamed. For example, we can rename it to `book` for writing a book, `docs` for software/project documentation, `notes` for creating a notebook, or `tutorials` for creating multi-page “how to” guides.
@@ -36,10 +41,6 @@ view: 3
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: Photo by Author on Craiyon
-  focal_point: Smart
-
 
 authors:
 - admin
