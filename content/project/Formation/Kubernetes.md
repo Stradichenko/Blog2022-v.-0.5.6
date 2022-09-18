@@ -1,7 +1,7 @@
 ---
 title: 'Kubernetes'
 cms_exclude: true
-subtitle: This is my personal documentation in the process of learning about Kubernetes.
+subtitle: Kubernetes, an open-source container orchestration system for automating software deployment, scaling, and management.
 
 # Summary for listings and search engines
 summary: Personal notes on the basic usage of Kubernetes
@@ -40,7 +40,7 @@ view: 3
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [Kubernetes](content\project\Formation\kubernetes.jpg)'
+  caption: Photo by Author on Craiyon
   focal_point: ""
   placement: 2
   preview_only: false
