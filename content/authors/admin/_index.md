@@ -10,7 +10,7 @@ role: MD, MBI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: MD. - Fundacion Universitaria de Ciencias de la Salud (FUCS)
+- name: MD - Fundacion Universitaria de Ciencias de la Salud (FUCS)
   url: https://www.fucsalud.edu.co/
 - name: MBI - Universitat Pompeu Fabra
   url: https://www.upf.edu/en/

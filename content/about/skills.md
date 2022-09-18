@@ -20,16 +20,19 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: usage knowledge of CiteSpace, VOSviewer, Bibliometrix and CitNetExplorer
+  icon: net
+  name: Scientometrics
+- description: understanding and manipulation of the GNU/Linux Environment
+  icon: linux
+  name: GNU/Linux
+- description: character sculpting and rigging
+  icon: blender
+  name: Blender
 - description: just a fan of photography :D
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- description: character sculpting and rigging
-  icon: blender
-- description: understanding and manipulation of the GNU/Linux Environment
-  icon: linux
-- description: usage knowledge of CiteSpace, VOSviewer, Bibliometrix and CitNetExplorer 
-  icon: net
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
