@@ -41,7 +41,7 @@ view: 3
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: Photo by Author on Craiyon
-  focal_point: ""
+  focal_point: "smart"
   placement: 2
   preview_only: false
 
