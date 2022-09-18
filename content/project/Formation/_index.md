@@ -7,11 +7,6 @@ summary:
 # Date page published
 date: "2020-12-13T00:00:00Z"
 
-
-image:
-  caption: Photo by Author on Craiyon
-  focal_point: Smart
-
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 
