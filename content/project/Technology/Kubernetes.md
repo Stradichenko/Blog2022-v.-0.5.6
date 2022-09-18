@@ -1,57 +1,33 @@
 ---
-title: 'Kubernetes'
-cms_exclude: true
-subtitle: Kubernetes, an open-source container orchestration system for automating software deployment, scaling, and management.
+title: Example Project
+summary: An example of using the in-built project page.
+tags:
+  - Deep Learning
+date: '2016-04-27T00:00:00Z'
 
-# Summary for listings and search engines
-summary: Personal notes on the basic usage of Kubernetes
+# Optional external URL for project (replaces project detail page).
+external_link: ''
 
-# This will show-up as a pop-up title
-linktitle: Kubernetes
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
-# Book page type (do not modify).
-type: docs
-# The `course` folder in the example above may be renamed. For example, we can rename it to `book` for writing a book, `docs` for software/project documentation, `notes` for creating a notebook, or `tutorials` for creating multi-page “how to” guides.
-
-# This will enable Table of Content
-toc: true
-
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: Photo by Author on Craiyon
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
-authors:
-- admin
-
-tags:
-- Kubernetes
-
-categories:
-- Technology
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
 
 Hi
