@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Technology
 
 # Page summary for search engines.
 summary: 
