@@ -1,7 +1,7 @@
 ---
 title: 'Whole Genome Sequencing'
 cms_exclude: true
-subtitle: Whole Genome Sequencing using COVID-19 as an example.
+subtitle: Whole Genome Sequencing using COVID-19 as an example
 
 # Summary for listings and search engines
 summary: WGS with COVID-19
@@ -66,6 +66,10 @@ categories:
 
 ## Introduction to viral genomes
 ![Viral genome sizw](viral_genome_size.png)
+
+![kuber](blue.png)
+![kuber](content\project\Technology\blue.png)
+![kuber](https://github.com/Stradichenko/Blog2022-v.-0.5.6/blob/main/content/project/Technology/blue.png)
 
 
 
