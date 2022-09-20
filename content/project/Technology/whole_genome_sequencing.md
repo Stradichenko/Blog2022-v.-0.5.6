@@ -66,10 +66,14 @@ categories:
 
 ## Introduction to viral genomes
 ![Viral genome sizw](viral_genome_size.png)
+![viral genome sizw](../../../assets/media/viral_genome_size.png)
+![viral genome sizw](../../../assets/media/viral_genome_size.png "caption")
 
 ![kuber](blue.png)
-![kuber](content\project\Technology\blue.png)
-![kuber](https://github.com/Stradichenko/Blog2022-v.-0.5.6/blob/main/content/project/Technology/blue.png)
+![](../../../assets/media/blue.png)
+![](https://github.com/Stradichenko/Blog2022-v.-0.5.6/blob/main/assets/media/blue.png)
+![kuber](assets\media\blue.png)
+![kuber](assets\media\blue.png "caption")
 
 
 
