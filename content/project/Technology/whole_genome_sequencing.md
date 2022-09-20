@@ -65,7 +65,7 @@ categories:
 - Tagmentation: Initial step in library preparation, DNA is cleaved and tagged.
 
 ## Introduction to viral genomes
-![](viral_genome_size.png)
+![Viral genome sizw](viral_genome_size.png)
 
 
 
