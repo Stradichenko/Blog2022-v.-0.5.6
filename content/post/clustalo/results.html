@@ -1,13 +1,29 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Clustal Omega Multiple Sequence Alignment Results</title>
+    <meta charset="UTF-8">
+    <title>Alignment Results</title>
   </head>
   <body>
-    <h1>Clustal Omega Multiple Sequence Alignment Results</h1>
-    <pre><?php echo htmlspecialchars($_GET['data']); ?></pre>
+    <div id="results"></div>
+    <button onclick="window.history.back()">Back</button>
+
+    <script>
+      // Get job ID from query parameter
+      const urlParams = new URLSearchParams(window.location.search);
+      const jobId = urlParams.get('jobId');
+
+      // Make API request to get job results
+      fetch(`https://www.ebi.ac.uk/Tools/services/rest/clustalo/status/${jobId}`, {
+        method: 'GET',
+      })
+        .then(response => response.text())
+        .then(responseData => {
+          // Update results section
+          const results = document.querySelector('#results');
+          results.innerHTML = `<pre>${responseData}</pre>`;
+        })
+        .catch(error => console.error(error));
+    </script>
   </body>
 </html>
-
-This code is a basic HTML page that displays the result of a Clustal Omega multiple sequence alignment. The alignment data is expected to be passed in the `data` parameter of the URL using the GET method, and is displayed inside a `pre` tag using PHP's `htmlspecialchars` function to prevent any HTML injection attacks.
