@@ -83,6 +83,9 @@ To credit for some selections, credits to DistroTube for his Tier Lists.
 ### Additional use of apps
 trash, htop, ranger, neofetch, ncdu, bat, ffmpeg, magick, cpufetch, bpytop, ascii-image-converter, lolcat
 
+
+
+
 ## Timeshift
 [differences](https://askubuntu.com/questions/18078/what-is-the-difference-between-a-desktop-environment-and-a-window-manager)
 [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)

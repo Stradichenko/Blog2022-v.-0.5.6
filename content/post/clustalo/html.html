@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Clustal Omega</title>
+    <link rel="stylesheet" type="text/css" href="clustalo.css">
+  </head>
+  <body>
+    <h1>Clustal Omega</h1>
+    <form id="alignment-form">
+      <label for="type-select">Select type:</label>
+      <select id="type-select" name="type">
+        <option value="dna">DNA</option>
+        <option value="rna">RNA</option>
+        <option value="protein">Protein</option>
+      </select>
+      <label for="sequence-textarea">Enter sequence:</label>
+      <textarea id="sequence-textarea" name="sequence" rows="10"></textarea>
+      <label for="file-upload">Or upload a file:</label>
+      <input type="file" id="file-upload" name="file">
+      <label for="email-input">Email results to:</label>
+      <input type="email" id="email-input" name="email">
+      <label for="output-format-select">Select output format:</label>
+      <select id="output-format-select" name="output_format">
+        <option value="clustal">Clustal</option>
+        <option value="fasta">FASTA</option>
+        <option value="phylip">PHYLIP</option>
+        <option value="selex">SELEX</option>
+      </select>
+      <input type="submit" value="Submit" id="submit-button">
+    </form>
+    <div id="results"></div>
+    <script src="clustalo.js"></script>
+  </body>
+</html>

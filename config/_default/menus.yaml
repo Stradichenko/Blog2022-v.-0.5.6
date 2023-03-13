@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: clustalo
+    url: 'post/clustalo/html.html'
+    weight: 20
   - name: Essays
     url: 'essay/'
     weight: 20

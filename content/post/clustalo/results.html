@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Clustal Omega Multiple Sequence Alignment Results</title>
+  </head>
+  <body>
+    <h1>Clustal Omega Multiple Sequence Alignment Results</h1>
+    <pre><?php echo htmlspecialchars($_GET['data']); ?></pre>
+  </body>
+</html>
+
+This code is a basic HTML page that displays the result of a Clustal Omega multiple sequence alignment. The alignment data is expected to be passed in the `data` parameter of the URL using the GET method, and is displayed inside a `pre` tag using PHP's `htmlspecialchars` function to prevent any HTML injection attacks.
